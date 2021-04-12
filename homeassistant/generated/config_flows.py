@@ -188,6 +188,7 @@ FLOWS = [
     "powerwall",
     "profiler",
     "progettihwsw",
+    "proxmoxve",
     "ps4",
     "pvpc_hourly_pricing",
     "rachio",
